@@ -7,6 +7,6 @@ passwordoutput=' '.join(random.choice (password) for _ in range(2))
 print("THE GENERATED PASSWORD IS:",passwordoutput)
 GENERATED=input("ENTER YOUR PASSWORD:")
 if(passwordoutput==GENERATED):
-    print("Name:K.Harini \n H.T.No :23D01A6688\nAadhar No:751* **** **09")
+    print("Name:K.Hari \n H.T.No :12345678\nAadhar No:7*** **** ***9")
 else:
     print("INVALID CAPTCHA")
